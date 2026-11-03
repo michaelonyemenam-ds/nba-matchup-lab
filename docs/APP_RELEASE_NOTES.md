@@ -4,9 +4,9 @@ This repository is being prepared for an initial, exploratory application releas
 
 ## Application
 
-The intended browser entry point is `apps/index.html`. Once committed, open that file in a modern browser; it embeds analytical data and requires no build step. External fonts may require internet access.
+The browser entry point is `apps/index.html`. Download the file and open it in a modern browser; it embeds analytical data and requires no build step. External fonts may require internet access.
 
-**Status:** The HTML application has not yet been committed to this branch. The original is preserved in the staging archive. Do not present this branch as a live demo.
+**Status:** The HTML application has been committed at `apps/index.html`. Browser testing and live website deployment remain pending.
 
 ## Research limitations
 
@@ -19,4 +19,4 @@ Some outputs are labeled PROXY or provisional. These are exploratory association
 
 ## Next steps
 
-Review and commit the self-contained HTML application, test interactions in a browser, then document the underlying data transformations and validation.
+Test the committed HTML application's interactions in a browser, then document the underlying data transformations and validation.
